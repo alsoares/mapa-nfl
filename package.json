@@ -1,0 +1,24 @@
+{
+  "name": "map-nfl",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "@google/maps": "^0.4.5",
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.15.5",
+    "googlemaps": "^1.12.0",
+    "jQuery": "^1.7.4",
+    "jsdom": "^11.6.2",
+    "morgan": "~1.9.0",
+    "request": "^2.83.0",
+    "request-json": "^0.6.2",
+    "serve-favicon": "~2.4.5"
+  }
+}
